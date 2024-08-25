@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2oTpO8P7PTW6tUrI4y6iVcHKu8RQd+lJhxMGZVruxBI=",
+  "Source": "TollFeeCalculator.Api",
+  "BasePath": "_content/TollFeeCalculator.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
