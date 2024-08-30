@@ -1,4 +1,4 @@
-using Xunit;
+using TollFeeCalculator.Api.Vehicles;
 
 namespace TollFeeCalculator.Api.Tests
 {
